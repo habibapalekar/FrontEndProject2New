@@ -3,6 +3,7 @@ body {
     background-color: #f4f4f4;
     font-family: sans-serif;
     color: cadetblue;
+    text-align: center;
 }
 
 h1 {
@@ -36,22 +37,17 @@ footer {
     padding: 2em 0;
 }
 
-.hero {
-    text-align: center;
-    background: #a5a5a5;
-    min-height: 5em;
-    padding: 2em;
-    margin: 1em 0;
-    /* vertically align */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-
+img {
+    padding: 10px;
 }
+
 
 
 
 main {
     margin-bottom: 2em;
+}
+
+.main-content {
+    align-content: center;
 }
