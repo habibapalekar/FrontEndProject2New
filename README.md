@@ -1,28 +1,23 @@
 # 11056-project2
 
-## 11056 Project 2 Starter
+## Reflection
 
-This is repo containing everything you need to start Project 2. All you need to do is clone this repository to your computer and start editing...
+For this project, I have created the first stage of a website that shares information about different types of crystals. 
 
-Make sure you refer to Canvas for more info.
+### Process
 
-## Install Elventy
-From Terminal, navigate to the folder you saved the repository in:
+After downloading the starter template on to my device. I began by first setting up and adjusting the footer as it was a simple place to start. From there I then designed the homepage. And then moved onto working on the About page.
 
-Type `npm create`
+### Challenges
 
-or, if that doesn't work: `npm install --save-dev @11ty/eleventy`
+I challenge that I faced with this project was the CSS not reflecting on the about page. After some research I was able to solve this issue through the _head.html page. 
 
-## Test your site
+I changed the link for CSS from -
 
-Open Terminal and type: `npm start`
+<link rel="stylesheet" href="{{ 'assets/css/styles.css' }}">
 
-This will create a local server to test the website.
+to
 
-Go to: http://localhost:8080 to view your site
+<link rel="stylesheet" href="{{ '/assets/css/styles.css' }}">
 
-## Build the site
-
-Run `npm build`
-
-Open up your site folder and you'll discover a folder within it called `final-website` this is where your actual site files are located. 
+and was able to see the changes I was making on CSS for the about page. 
