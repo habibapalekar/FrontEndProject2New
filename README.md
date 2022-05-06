@@ -6,7 +6,10 @@ For this project, I have created the first stage of a website that shares inform
 
 ### Process
 
-After downloading the starter template on to my device. I began by first setting up and adjusting the footer as it was a simple place to start. From there I then designed the homepage. And then moved onto working on the About page.
+After downloading the starter template on to my device. I began by first setting up and adjusting the footer as it was a simple place to start. From there I added a navigation bar and then designed the homepage. And moved onto working on the About page.
+
+For the CSS on this website, I adjusted the pre-existing CSS so elements of the footer could be separated from the header as they were initially following the same CSS.
+
 
 ### Challenges
 
