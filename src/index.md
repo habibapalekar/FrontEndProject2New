@@ -1,6 +1,5 @@
 ---
-# set the layout to use, in this case, the homepage one
-layout: layouts/homepage
+layout: layouts/homepage.html
 
 # set the page title
 title: Crystal Collective
@@ -9,10 +8,6 @@ title: Crystal Collective
 ---
 
 <img src="assets/images/hero.jpg" width="800"> 
-
-
-
-
 
 # Welcome to Crystal Collective
 

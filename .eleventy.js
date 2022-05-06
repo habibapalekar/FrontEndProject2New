@@ -13,7 +13,7 @@ module.exports = function (eleventyConfig) {
             input: "src",
             includes: "_includes",
             // put the layouts in their own folder
-            // layouts: "_layouts",
+            //layouts: "layouts",
             //change where the website it output
             output: "final-website",
         }
