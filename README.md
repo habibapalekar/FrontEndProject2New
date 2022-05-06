@@ -17,10 +17,10 @@ I challenge that I faced with this project was the CSS not reflecting on the abo
 
 I changed the link for CSS from -
 
-<link rel="stylesheet" href="{{ 'assets/css/styles.css' }}">
+'assets/css/styles.css'
 
 to
 
-<link rel="stylesheet" href="{{ '/assets/css/styles.css' }}">
+'/assets/css/styles.css'
 
 and was able to see the changes I was making on CSS for the about page. 
